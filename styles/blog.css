@@ -1,3 +1,10 @@
 div{
     background-color: aqua;
+    margin: 10px;
+    font-size: large;
+}
+p{
+    font-style: italic;
+    box-shadow: 7cm;
+    margin: auto;
 }
